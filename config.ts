@@ -6,7 +6,7 @@ import { AWSPollyEngine } from "./types/aws-polly-engine";
 
 // Environment variables
 import dotenv from "dotenv";
-dotenv.config();
+dotenv.config(); 
 
 // Config Interface
 interface IConfig {
